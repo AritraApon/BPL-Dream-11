@@ -6,7 +6,7 @@ const HeroBanner = () => {
     return (
         <div className='max-w-360 mx-auto'>
             <div >
-                <div className='min-h-[60vh] pb-10' style={{
+                <div className='min-h-[40vh]  pb-10' style={{
                     backgroundImage: `url(${BackgroundShadowImage})`,
                     backgroundRepeat: 'no-repeat',
                     backgroundSize: "cover",

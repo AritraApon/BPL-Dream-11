@@ -1,0 +1,185 @@
+[
+  {
+    "playerName": "Virat Kohli",
+    "playerCountry": "India",
+    "playerImage": "https://i.ibb.co.com/3yMRrs1j/Rectangle-2.png",
+    "playerType": "Batsman",
+    "rating": 9.5,
+    "batingOrBowling": "Batting",
+    "price": 9800
+  },
+  {
+    "playerName": "Babar Azam",
+    "playerCountry": "Pakistan",
+    "playerImage": "https://i.ibb.co.com/ynyZx5SQ/image.png",
+    "playerType": "Batsman",
+    "rating": 9.2,
+    "batingOrBowling": "Batting",
+    "price": 9300
+  },
+  {
+    "playerName": "Shakib Al Hasan",
+    "playerCountry": "Bangladesh",
+    "playerImage": "https://i.ibb.co.com/39xxdysd/099f3682a0249c2cbbdd464ef2b11acd.jpg",
+    "playerType": "All-Rounder",
+    "rating": 9.1,
+    "batingOrBowling": "All-Rounder",
+    "price": 9500
+  },
+  {
+    "playerName": "Ben Stokes",
+    "playerCountry": "England",
+    "playerImage": "https://i.ibb.co.com/Q7vrBXKh/image.png",
+    "playerType": "All-Rounder",
+    "rating": 9.0,
+    "batingOrBowling": "All-Rounder",
+    "price": 9700
+  },
+  {
+    "playerName": "Kane Williamson",
+    "playerCountry": "New Zealand",
+    "playerImage": "https://i.ibb.co.com/bRbqFzdm/image.png",
+    "playerType": "Batsman",
+    "rating": 8.8,
+    "batingOrBowling": "Batting",
+    "price": 8700
+  },
+  {
+    "playerName": "Joe Root",
+    "playerCountry": "England",
+    "playerImage": "https://i.ibb.co.com/Xn29RRG/image.png",
+    "playerType": "Batsman",
+    "rating": 8.9,
+    "batingOrBowling": "Batting",
+    "price": 8900
+  },
+  {
+    "playerName": "Rohit Sharma",
+    "playerCountry": "India",
+    "playerImage": "https://i.ibb.co.com/RG1n2Hvr/image.png",
+    "playerType": "Batsman",
+    "rating": 9.0,
+    "batingOrBowling": "Batting",
+    "price": 9600
+  },
+  {
+    "playerName": "David Warner",
+    "playerCountry": "Australia",
+    "playerImage": "https://i.ibb.co.com/PsFFwnny/image.png",
+    "playerType": "Batsman",
+    "rating": 8.7,
+    "batingOrBowling": "Batting",
+    "price": 8500
+  },
+  {
+    "playerName": "Steve Smith",
+    "playerCountry": "Australia",
+    "playerImage": "https://i.ibb.co.com/wFz2v6FN/image.png",
+    "playerType": "Batsman",
+    "rating": 9.1,
+    "batingOrBowling": "Batting",
+    "price": 9400
+  },
+  {
+    "playerName": "Jasprit Bumrah",
+    "playerCountry": "India",
+    "playerImage": "https://i.ibb.co.com/DFTrDr7/image.png",
+    "playerType": "Bowler",
+    "rating": 8.9,
+    "batingOrBowling": "Bowling",
+    "price": 8800
+  },
+  {
+    "playerName": "Mitchell Starc",
+    "playerCountry": "Australia",
+    "playerImage": "https://i.ibb.co.com/TDR875pX/image.png",
+    "playerType": "Bowler",
+    "rating": 8.8,
+    "batingOrBowling": "Bowling",
+    "price": 8600
+  },
+  {
+    "playerName": "Trent Boult",
+    "playerCountry": "New Zealand",
+    "playerImage": "https://i.ibb.co.com/yn5HjngP/image.png",
+    "playerType": "Bowler",
+    "rating": 8.6,
+    "batingOrBowling": "Bowling",
+    "price": 8200
+  },
+  {
+    "playerName": "Shaheen Afridi",
+    "playerCountry": "Pakistan",
+    "playerImage": "https://i.ibb.co.com/RTqggyS2/image.png",
+    "playerType": "Bowler",
+    "rating": 8.7,
+    "batingOrBowling": "Bowling",
+    "price": 8400
+  },
+  {
+    "playerName": "Hardik Pandya",
+    "playerCountry": "India",
+    "playerImage": "https://i.ibb.co.com/PvB068fF/image.png",
+    "playerType": "All-Rounder",
+    "rating": 8.8,
+    "batingOrBowling": "All-Rounder",
+    "price": 9000
+  },
+  {
+    "playerName": "Glenn Maxwell",
+    "playerCountry": "Australia",
+    "playerImage": "https://i.ibb.co.com/5XF13wky/image.png",
+    "playerType": "All-Rounder",
+    "rating": 8.7,
+    "batingOrBowling": "All-Rounder",
+    "price": 8800
+  },
+  {
+    "playerName": "Jos Buttler",
+    "playerCountry": "England",
+    "playerImage": "https://i.ibb.co.com/KdGW8qP/image.png",
+    "playerType": "Wicketkeeper",
+    "rating": 9.0,
+    "batingOrBowling": "Batting",
+    "price": 9100
+  },
+  {
+    "playerName": "Quinton de Kock",
+    "playerCountry": "South Africa",
+    "playerImage": "https://i.ibb.co.com/Z6vW4V8j/image.png",
+    "playerType": "Wicketkeeper",
+    "rating": 8.6,
+    "batingOrBowling": "Batting",
+    "price": 8300
+  },
+  {
+    "playerName": "KL Rahul",
+    "playerCountry": "India",
+    "playerImage": "https://i.ibb.co.com/LhpcVm6b/image.png",
+    "playerType": "Wicketkeeper",
+    "rating": 8.5,
+    "batingOrBowling": "Batting",
+    "price": 8200
+  },
+  {
+    "playerName": "Mushfiqur Rahim",
+    "playerCountry": "Bangladesh",
+    "playerImage": "https://i.ibb.co.com/hvffHqW/image.png",
+    "playerType": "Wicketkeeper",
+    "rating": 8.4,
+    "batingOrBowling": "Batting",
+    "price": 8000
+  },
+  {
+    "playerName": "Rashid Khan",
+    "playerCountry": "Afghanistan",
+    "playerImage": "https://i.ibb.co.com/mrTB61kn/image.png",
+    "playerType": "Bowler",
+    "rating": 9.0,
+    "batingOrBowling": "Bowling",
+    "price": 9400
+  }
+
+
+
+]
