@@ -4,7 +4,7 @@ import { CiFlag1 } from "react-icons/ci";
 import { FcRating } from "react-icons/fc";
 import { TbCoinTakaFilled } from "react-icons/tb";
 
-const PlayerCardInfo = ({ player }) => {
+const Cards = ({ player }) => {
     console.log(player.playerName)
     return (
         <div className=''>
@@ -53,4 +53,4 @@ const PlayerCardInfo = ({ player }) => {
     );
 };
 
-export default PlayerCardInfo;
+export default Cards;
