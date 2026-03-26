@@ -6,10 +6,8 @@ const SelectedPlayer = ({selectedPlayers ,setSelectedPlayers ,coin ,setCoin}) =>
     return (
         <div className='max-w-360 mx-auto'>
         <div className='w-11/12 mx-auto space-y-5'>
-        <div>
 
-        </div>
-           <div>
+           <div className='space-y-6'>
              {
               selectedPlayers.length === 0 ? <div>
                 <div className='text-center mt-[10%] '>
