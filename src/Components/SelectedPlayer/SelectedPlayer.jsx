@@ -7,7 +7,7 @@ const SelectedPlayer = ({selectedPlayers ,setSelectedPlayers ,coin ,setCoin}) =>
         <div className='max-w-360 mx-auto'>
         <div className='w-11/12 mx-auto space-y-5'>
             {
-                selectedPlayers.map(selectedPlayer => <SelectedPlayerCards selectedPlayer ={selectedPlayer}  coin={coin} setCoin={setCoin}></SelectedPlayerCards> )
+                selectedPlayers.map(player => <SelectedPlayerCards player={player}  coin={coin} setCoin={setCoin} setSelectedPlayers={setSelectedPlayers} selectedPlayers={selectedPlayers} ></SelectedPlayerCards> )
             }
         </div>
         </div>
