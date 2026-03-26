@@ -31,15 +31,15 @@ const Cards = ({ player, coin, setCoin ,selectedPlayers ,setSelectedPlayers }) =
     return (
         <div className=''>
             <div className='rounded-t-2xl'>
-                <div className="card bg-base-200 shadow-lg ">
-                    <figure className='border-5 border-[#fc0202] bg-linear-to-r from-green-400 to-red-400'>
+                <div className="card  shadow-lg hover:scale-105 hover:shadow-2xl  ">
+                    <figure className='border-5 border-[#fc0202] bg-linear-to-r from-green-50 to-red-50'>
                         <div className=' h-50 '>
                             <img
                                 src={player.playerImage}
                                 alt={player.playerName} className='w-full h-full object-cover' />
                         </div>
                     </figure>
-                    <div className="px-4 py-4 bg-linear-to-r from-green-200 to-red-200 border-5 
+                    <div className="px-4 py-4 bg-linear-to-r from-green-100 to-red-100 border-5 
                     border-[green] rounded-b-2xl">
                         <div>
                             <h1 className='flex items-center gap-2 font-bold text-xl py-2'><FaUserAlt /> {player.playerName}</h1>

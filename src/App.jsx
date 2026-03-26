@@ -3,6 +3,7 @@ import HeroBanner from "./Components/HeroBanner/HeroBanner"
 import NavBar from "./Components/Navbar/NavBar"
 import Players from "./Components/PlayersData/Players";
 import { ToastContainer, toast } from 'react-toastify';
+import Footer from "./Components/Footer/Footer";
 
 
 const playersInformation = async () => {
@@ -25,6 +26,7 @@ function App() {
       </div>}>
         <Players playerPromise={playerPromise} coin={coin} setCoin={setCoin}></Players>
       </Suspense>
+      <Footer></Footer>
       <ToastContainer position="top-center" />
     </>
   )
