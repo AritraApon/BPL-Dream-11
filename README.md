@@ -22,7 +22,7 @@ A web application to create and manage your own BPL Dream 11 fantasy cricket tea
 
 #ScreenShort
  <img width="1811" height="687" alt="image" src="https://github.com/user-attachments/assets/a79234c8-bf7e-4326-b16c-bd5c70253ec2" />
-<img width="300" height="500" alt="image" src="https://github.com/user-attachments/assets/784cef90-afaa-4d31-93e8-d959819bc95b" />
+<img width="1376" height="1018" alt="image" src="https://github.com/user-attachments/assets/5f99c562-18e5-41d9-9156-bc6e1fb6b01f" />
 <img width="1442" height="547" alt="image" src="https://github.com/user-attachments/assets/b455bd70-532b-4ea0-ad67-b0b7388c0ad0" />
 <img width="1430" height="522" alt="image" src="https://github.com/user-attachments/assets/3abaecd1-bfd7-47e1-85ea-2f347156f33d" />
 <img width="1560" height="872" alt="image" src="https://github.com/user-attachments/assets/2d1c0a24-526f-434e-b66c-d7b4f1f035ec" />
